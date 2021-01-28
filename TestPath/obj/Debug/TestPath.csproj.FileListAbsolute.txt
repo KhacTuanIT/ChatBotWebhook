@@ -1,0 +1,6 @@
+E:\Project4_2019-2020\Server\Webhook\Pass\TestPath\bin\Debug\TestPath.exe.config
+E:\Project4_2019-2020\Server\Webhook\Pass\TestPath\bin\Debug\TestPath.exe
+E:\Project4_2019-2020\Server\Webhook\Pass\TestPath\bin\Debug\TestPath.pdb
+E:\Project4_2019-2020\Server\Webhook\Pass\TestPath\obj\Debug\TestPath.exe
+E:\Project4_2019-2020\Server\Webhook\Pass\TestPath\obj\Debug\TestPath.pdb
+E:\Project4_2019-2020\Server\Webhook\Pass\TestPath\obj\Debug\TestPath.csproj.CoreCompileInputs.cache
