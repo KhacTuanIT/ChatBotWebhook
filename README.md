@@ -2,4 +2,4 @@
 Research the way that using Zalo API to create a Chat bot can automatically reply feedback from user/customer.
 
 # Author
-[(https://github.com/SinJunior)SinJunior]
+[SinJunior/Tran Khac Tuan](https://github.com/SinJunior)
